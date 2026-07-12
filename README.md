@@ -1,12 +1,12 @@
-# 🟡 Power BI Project - Retail Sales Analysis
+# Power BI Project - Retail Sales Analysis
 
 This project was developed as part of the comprehensive Power BI course by **Maven Analytics** on Udemy. Here, the complete cycle of business data analysis was carried out: from loading and cleaning to professional visualization.
 
-## 📌 Project objective
+## Project objective
 
 Analyze the performance of a retail chain through key indicators, interactive visualizations, and segmentations that enable strategic decision-making.
 
-## 🛠️ Tools and techniques used
+## Tools and techniques used
 
 - **Power BI Desktop**
 - **Relational data modeling**
@@ -15,7 +15,7 @@ Analyze the performance of a retail chain through key indicators, interactive vi
 - **Basic DAX (KPIs, margin calculation, averages, percentages, etc.)**
 - **Interactive visualizations (slicers, filters, cards, bar charts, lines, maps)**
 
-## 🔍 Main metrics analyzed
+## Main metrics analyzed
 
 - Total sales and units sold
 - Profit margin
@@ -23,17 +23,17 @@ Analyze the performance of a retail chain through key indicators, interactive vi
 - Monthly trends
 - Analysis by product, country, and sales channel
 
-## 📊 Visualizations included
+## Visualizations included
 
 - Executive dashboard with key KPIs
 - Monthly sales trends
 - Revenue distribution by channel, product, and country
 - Comparative analysis by category and subcategory
 
-## 🎯 Results
+## Results
 
 A dynamic and professional dashboard was built for executives, providing a clear understanding of business performance and opportunities for improvement.
 
-## 📂 Files
+## Files
 
 - `PowerBIProject.pbix`
