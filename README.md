@@ -1,39 +1,44 @@
-# Power BI Project - Retail Sales Analysis
+# Retail Sales Dashboard — Power BI
 
-This project was developed as part of the comprehensive Power BI course by **Maven Analytics** on Udemy. Here, the complete cycle of business data analysis was carried out: from loading and cleaning to professional visualization.
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-measures-555)
 
-## Project objective
+End-to-end Power BI project analyzing the performance of a retail chain: data loading and cleaning,
+relational modeling, DAX measures and an executive dashboard.
+Built while completing the Maven Analytics *Microsoft Power BI Desktop for Business Intelligence* course.
 
-Analyze the performance of a retail chain through key indicators, interactive visualizations, and segmentations that enable strategic decision-making.
+<!-- Add a screenshot of the main page:
+![Dashboard](images/dashboard.png)
+-->
 
-## Tools and techniques used
+## Objective
 
-- **Power BI Desktop**
-- **Relational data modeling**
-- **Data cleaning and transformation**
-- **Implicit and explicit measures**
-- **Basic DAX (KPIs, margin calculation, averages, percentages, etc.)**
-- **Interactive visualizations (slicers, filters, cards, bar charts, lines, maps)**
+Give managers a single view of sales performance — by product, country, channel and month — to
+support pricing, inventory and marketing decisions.
 
-## Main metrics analyzed
+## What I did
+
+| Step | Details |
+|------|---------|
+| **Extract & clean** | Loaded and transformed the source tables in Power Query (data types, blanks, consistent formats) |
+| **Model** | Relational model linking the sales table to lookup tables (products, customers, dates, etc.) |
+| **Measures (DAX)** | Implicit and explicit measures: total sales, units sold, profit margin %, average ticket per customer |
+| **Visualize** | KPI cards, monthly trend lines, revenue by channel/product/country, category drill-down, slicers |
+
+## Key metrics
 
 - Total sales and units sold
 - Profit margin
 - Average ticket per customer
 - Monthly trends
-- Analysis by product, country, and sales channel
-
-## Visualizations included
-
-- Executive dashboard with key KPIs
-- Monthly sales trends
-- Revenue distribution by channel, product, and country
-- Comparative analysis by category and subcategory
-
-## Results
-
-A dynamic and professional dashboard was built for executives, providing a clear understanding of business performance and opportunities for improvement.
+- Breakdown by product, country and sales channel
 
 ## Files
 
-- `PowerBIProject.pbix`
+| File | Description |
+|------|-------------|
+| `Power BI Project.pbix` | Full report — open with [Power BI Desktop](https://www.microsoft.com/power-platform/products/power-bi/desktop) (free) |
+
+---
+
+**Author:** Miguel Ramírez · [GitHub](https://github.com/miguel-ramirez-data)
